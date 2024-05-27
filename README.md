@@ -1,7 +1,7 @@
 # Mi primer proyecto en Django.
 Mi primer proyecto en Django en el que aplicare los conocimientos que adquiera para solucionar los problemas del mundo real
 ##Problema a Solucionar
-El problema a solucionar es ...
+El problema a solucionar es ...hola
 ## Comandos basicos de Git
 -git clone <url-repositorio>: Sirve para clonar algun repositorio publico o al cual yo tenga acceso privado.
 -git pull: Sirve para actualizar cambios en local con respecto al repositorio remoto.
